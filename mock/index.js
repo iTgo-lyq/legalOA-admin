@@ -10,7 +10,7 @@ const mocks = [
   ...user,
   ...role,
   ...article,
-  ...search
+  ...search,
 ]
 
 // for front mock
